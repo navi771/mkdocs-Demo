@@ -1,4 +1,7 @@
-site_name: Material
+site_name: Guides
+nav:
+  - Home: index.md
+  
 # theme:
 #   name: 'readthedocs'
 #   features:
