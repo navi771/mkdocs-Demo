@@ -1,6 +1,7 @@
 site_name: Guides
 nav:
-  - Home: index.md  
+  - Home: index.md  .
+  
 # theme:
 #   name: 'readthedocs'
 #   features:
